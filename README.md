@@ -11,5 +11,3 @@ Additionally, a second summary chart is created to return the following:
 - Greatest % increase
 - Greatest % decrease
 - Greatest total volume
-
-Lastly, each of calculation is implemented over 
